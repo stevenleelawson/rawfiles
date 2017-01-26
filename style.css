@@ -1,6 +1,23 @@
+.jumbotron {
+  margin: 1rem;
+  padding: 1rem;
+}
+.elliott {
+  margin: 1rem;
+  padding: 1rem;
+}
 body {
   background-color: hsl(124, 60%, 61%);
+
+
+}
+/*.headline {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: rgb(227, 19, 69);
+  color: hsl(264, 89%, 15%);
+}*/
+.changa {
+  background-color: rgb(64, 22, 203);
 }
